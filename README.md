@@ -1,5 +1,5 @@
-# codinson_server
-The server side codinson application
+# sample-express-app
+The server side express
 
 ### How this project was initiated
 
